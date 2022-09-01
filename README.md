@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShayanRahmati
 - 📊 I’m interested in football performance and analysis
 - 🖥 I’m currently learning computer engineering
-- 🍃 I’m looking to collaborate with football analysts and data scientists
+- 🍃 I’m looking to collaborate with football analysts
 - 📫 How to reach me https://twitter.com/ShayanRahmatii?s=09
 
 <!---
