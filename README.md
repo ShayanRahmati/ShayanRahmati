@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShayanRahmati
 - 📊 I’m a football data analyst
-- 🖥 I’m currently studying bachelor computer engineering
+- 🖥 I’m currently studying bachelor of computer engineering
 - 🍃 I’m looking to collaborate with football analysts
 - 📫 How to reach me https://twitter.com/ShayanRahmatii?s=09
 
