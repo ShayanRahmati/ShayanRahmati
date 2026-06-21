@@ -8,7 +8,7 @@ recently completed a 5-season study of Premier League & La Liga team performance
 🎓 Bachelor's student in Computer Engineering
 
 🔍 Currently exploring scouting analytics, player performance trajectories, 
-and injury history modeling
+and predictive football models
 
 🌱 Open to collaborating with football analysts, scouts, and data people 
 who love the game as much as the numbers
